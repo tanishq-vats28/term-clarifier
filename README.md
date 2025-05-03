@@ -1,6 +1,3 @@
-Thought for a couple of seconds
-
-````markdown
 # Term Clarifier
 
 > A single-screen React app (built with Vite) that lets learners type any term and instantly see a definition with highlighted synonyms.
@@ -26,6 +23,7 @@ Thought for a couple of seconds
    git clone https://github.com/your-username/dictionary-app.git
    cd dictionary-app
    ```
+
 ````
 
 2. **Install dependencies**
@@ -140,3 +138,4 @@ dictionary-app/
      4. Upon request, AI reveals the complete solution with explanatory notes.
 
 ---
+````
