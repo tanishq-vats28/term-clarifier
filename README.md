@@ -19,12 +19,11 @@
 ## Installation
 
 1. **Clone the repo**
+
    ```bash
    git clone https://github.com/your-username/dictionary-app.git
    cd dictionary-app
    ```
-
-````
 
 2. **Install dependencies**
 
@@ -138,4 +137,7 @@ dictionary-app/
      4. Upon request, AI reveals the complete solution with explanatory notes.
 
 ---
-````
+
+```
+
+```
